@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "189967219971",
+    "project_id": "poshtok-c488d",
+    "storage_bucket": "poshtok-c488d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189967219971:android:04e2cd3f952c1a3c973d36",
+        "android_client_info": {
+          "package_name": "com.poshtok.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189967219971-8dvpoghdv4h7h4tkclka9pefd5li8e5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poshtok.app",
+            "certificate_hash": "7c806818c9192c187296a9e149ae11c386195800"
+          }
+        },
+        {
+          "client_id": "189967219971-9vcr4tb6fj42vptmjndvh3ma7fl3qnjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poshtok.app",
+            "certificate_hash": "c0eaecf6207ff73f9798ded87e644bd38717ee67"
+          }
+        },
+        {
+          "client_id": "189967219971-blrunpb0hgi9ol4i85asj7lgcs6eqii9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poshtok.app",
+            "certificate_hash": "5857295c3a2b45670179d6038b6e0304c0c1c501"
+          }
+        },
+        {
+          "client_id": "189967219971-p310s9g0blof8v7fl9ulsm5njvmks3tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poshtok.app",
+            "certificate_hash": "c9025f3814a002d0875bf04b4f06b96f390c933f"
+          }
+        },
+        {
+          "client_id": "189967219971-ssligloc6dlpca97sggfeq40raumnj1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poshtok.app",
+            "certificate_hash": "5ef61fe93a193346a1b032a30bfb26840636a791"
+          }
+        },
+        {
+          "client_id": "189967219971-81ekmud298a4c1rcrd153cmindka9pcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxuUHV6rjT_dtci9FucEpbykpef5EeE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189967219971-81ekmud298a4c1rcrd153cmindka9pcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
